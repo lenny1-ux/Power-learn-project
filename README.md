@@ -5,3 +5,7 @@
 - No sophisticated operations allowed.
 
 # Populating my empt list
+- wk2 assignment
+# Calculating % discount
+- wk3 assignment
+  
